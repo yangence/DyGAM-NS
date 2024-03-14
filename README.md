@@ -1,2 +1,2 @@
 # DyGAM-NS
-Dynamic optimized generalized additive model with natural cubic smoothing is a model that enables the capture of non-uniform and nonlinear transcriptional changes during dimorphic transition of T. marneffei
+The Dynamic Optimized Generalized Additive Model with Natural Cubic Smoothing (DyGAM-NS) is a modeling approach specifically crafted to capture non-uniform and nonlinear transcriptional changes by using time-course RNA-seq.
